@@ -1,3 +1,3 @@
 # UFLDL-STANFORD
 
-Stanford's deep learning tutorial (www.ufldl.stanford.edu) exercises solved in Python. 
+Stanford's deep learning tutorial (ufldl.stanford.edu/tutorial/) exercises solved in Python. 
