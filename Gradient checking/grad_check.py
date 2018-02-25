@@ -1,7 +1,7 @@
 import numpy as np
 
 #defining the path
-file_path = '/Users/Hatim/Desktop/UFLDL-STANFORD/Data files/housing.data.txt'
+file_path = 'housing.data.txt'
 
 #loading the data
 data = np.loadtxt(file_path)
